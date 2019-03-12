@@ -1,4 +1,4 @@
 learn git 版本1
 2019.1.23
 test remote push
-create branch dev
+create branch dev&simple
